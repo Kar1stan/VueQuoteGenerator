@@ -1,38 +1,40 @@
-# Link
-https://alexpanfilov.github.io/random-quote-vuejs/
+# VueQuoteGenerator
+***
+Quote generator app on Vue.js
 
-# Random_quotes
 
-This template should help get you started developing with Vue 3 in Vite.
+## 💻 Topics
 
-## Recommended IDE Setup
+Integrated with:
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.vscode-typescript-vue-plugin).
+- [x] https://vuejs.org/
 
-## Customize configuration
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+## 💻 Pre-requisites
 
-## Project Setup
+Before you use this project you only need to have Node.js installed in your computer.
 
-```sh
-npm install
+https://nodejs.org/es/download/
+
+Also delete package.lock file before you run your project.
+
+### Git clone
+This will clone the project, install NPM packages.
+```
+$ git clone https://github.com/Kar1stan/VueQuoteGenerator.git
+$ cd VueQuoteGenerator
+$ npm install
 ```
 
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
+## 🚀 Run the project
+To run the project open terminal and  run the command:
 ```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
+$ npm run serve
 ```
+## Credits
+For further help or additional errors [here](https://ru.reactjs.org/)
 
-### Lint with [ESLint](https://eslint.org/)
 
-```sh
-npm run lint
-```
+
+
+
