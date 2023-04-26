@@ -29,7 +29,7 @@ $ npm install
 ## 🚀 Run the project
 To run the project open terminal and  run the command:
 ```
-$ npm run serve
+$ npm run dev
 ```
 ## Credits
 For further help or additional errors [here](https://ru.reactjs.org/)
